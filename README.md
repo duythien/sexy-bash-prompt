@@ -16,7 +16,7 @@ Forked from [a gist by gf3][sexy-bash-orig].
 One line install:
 
 ```bash
-(cd /tmp && git clone --depth 1 https://github.com/twolfson/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
+(cd /tmp && git clone --depth 1 https://github.com/duythien/sexy-bash-prompt && cd sexy-bash-prompt && make install) && source ~/.bashrc
 ```
 
 ### My colors don't look as advertised
