@@ -44,7 +44,7 @@ rm /tmp/.bash_prompt_term
 ### Manual install
 ```bash
 $ # Clone the repository
-$ git clone --depth 1 https://github.com/twolfson/sexy-bash-prompt
+$ git clone --depth=1 https://github.com/twolfson/sexy-bash-prompt
 Cloning into 'sexy-bash-prompt'...
 ...
 Resolving deltas: 100% (13/13), done.
